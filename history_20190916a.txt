@@ -1,0 +1,71 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  fairfox
+    4  ls
+    5  ls-l
+    6  ls -l
+    7  -a
+    8  pwd
+    9  cd .
+   10  pwd
+   11  cd ..
+   12  pwd
+   13  ls -la
+   14  la -l
+   15  cd .
+   16  pwd
+   17  cd ..
+   18  ls -l
+   19  ls -la
+   20  pwd
+   21  cd .
+   22  pwd
+   23  cd ..
+   24  pwd
+   25  ls -l
+   26  cd ~
+   27  cd cd /
+   28  cd /
+   29  pwd
+   30  cd home/
+   31  cd user/
+   32  cd /
+   33  cd ./home/
+   34  cd ./user/
+   35  cd /home/
+   36  cd /home/user/
+   37  cd /
+   38  cd 
+   39  mkdir mydirectory
+   40  ld 
+   41  ls
+   42  mkdir mydirectory
+   43  ls -l
+   44  cd mydirectory/
+   45  LS
+   46  ls
+   47  ls -l
+   48  ls -al
+   49  cd ..
+   50  pwd
+   51  rmdir mydirectory/
+   52  ls
+   53  cd /
+   54  mkdir mydirectory
+   55  cd 
+   56  ls -l /
+   57  cd /home
+   58  mkdir mydirectory
+   59  ls -l /home
+   60  ls -l /home/
+   61  cd /
+   62  ls -l
+   63  cd home/
+   64  ls -l
+   65  history 
+   66  cd
+   67  history
+   68  cat history_20190916a.txt
+   69  pwd
+   70  history 
+   71  history > history_20190916a.txt
