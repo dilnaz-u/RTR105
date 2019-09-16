@@ -1,68 +1,15 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  cd
-    4  pwd
-    5  ls
-    6  touch aaa.txt
-    7  ls -l
-    8  ls -l aaa.txt
-    9* 
-   10  ls -l
-   11  touch -t 201909171000 aaa.txt 
-   12  ls -l
-   13  echo hello world!
-   14  echo hello world! > bbb.txt
-   15  ls -l
-   16  cat bbb.txt
-   17  echo hello world again! > bbb.txt
-   18* 
-   19  cat bbb.txt 
-   20  echo hello world again! >> bbb.txt
-   21  cat bbb.txt 
-   22  echo hello world! > bbb.txt
-   23  la -l
-   24  echo hello world! > bbb.txt
-   25  cat bbb.txt 
-   26  echo hello world again! >> bbb.txt
-   27  cat bbb.txt 
-   28  sta
-   29  echo -e "hello\ttworld!"
-   30  echo -e "hello\vworld!"
-   31  echo -e "hello\vworld!" > cc.txt
-   32  cat cc.txt 
-   33  ls -l cc.txt 
-   34  cat cc.txt > sss.txt
-   35  ls -l
-   36  cat /bin/ls
-   37  ls -l /bin/ls
-   38  cat /bin/ls > rrr.txt
-   39  ls -l
-   40  rm aaa.txt 
-   41  ls -l
-   42  ls -l *.txt
-   43  rm *.txt
-   44  ls -l
-   45  touch mlu.txt
-   46  touch wli.txt
-   47  ls -l
-   48  rm *1*.*xt
-   49  ls -l
-   50  rm *l*.*xt
-   51  ls -l
-   52  echo -e "hello\vworld!" > ccc.txt
-   53  ls -l
-   54  cp ccc.txt ccc1.txt
-   55  ls -l
-   56  cd /
-   57  mv ~/ccc.txt ~/music/dd.tx
-   58  mv ~/ccc.txt ~/Music/dd.tx
-   59  ls -l
-   60  mv ~ccc.txt ~/Music/dd.tx
-   61  mv ~/ccc.txt ~/Music/dd.tx
-   62  cd
-   63  pwd
-   64  ls -l
-   65  mv ccc1.txt ddd1.txt
-   66  ls -l
-   67  history 
-   68  history > history_20190916a.txt
+    3  firefox
+    4  nano myfirstskript.sh
+    5  ls -l
+    6  ls
+    7  ./myfirstskript.sh
+    8  chmod 740  myfirstskript.sh
+    9  ls -l
+   10  ./myfirstskript.sh
+   11  cat log.txt 
+   12  rm -r mydi >> log.txt
+   13  ./myfirstskript.sh
+   14  history 
+   15  history > history_20190916a.txt 
