@@ -1,0 +1,17 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  git-upload 
+    5  ./git-upload 
+    6  git-upload
+    7  whereis git-upload
+    8  ls- l
+    9  whereis ls
+   10  ls -l /bin/ls
+   11  echo $PATH
+   12  PATH=$PATH:~/RTR105/
+   13  echo $PATH
+   14  whereis git-upload
+   15  echo $PATH
+   16  git-upload
+   17  history > history_20190923.txt
