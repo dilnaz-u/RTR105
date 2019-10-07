@@ -17,3 +17,13 @@ cd mydirectory/ - enter to directory
  echo -e "some\twords!" - for creating the distance between words
  echo -e "some\vwords!" - for putting words in vertical forms
  echo somewords - will reapet words
+
+
+
+ASCII (asty table)
+1. part-128 symbols
+1 byte is 8 bits
+DEC
+Hex
+OCTEL
+BEN
