@@ -5,4 +5,5 @@ printf()-
 include<stdio.h>-
 ctrl+alt+T - opens a new terminal
 ctrl+shift+T - opens new windows
-
+gcc compli
+\a sound
