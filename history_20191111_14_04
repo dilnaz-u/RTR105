@@ -1,0 +1,109 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/dilnaz-u/RTR105
+    4  ls -l
+    5  cd RTR105
+    6  ls -l
+    7  cd works
+    8  cd ..
+    9  operation_test.c
+   10  nano operation_tests.c 
+   11  cat operation_tests.c 
+   12  gcc operation_tests.c 
+   13  nano operation_tests.c 
+   14  gcc operation_tests.c 
+   15  ./a.out
+   16  ls -l
+   17  cat operation_tests.c 
+   18  gcc operation_tests.c 
+   19  ./a.out
+   20  nano operation_tests.c 
+   21  gcc operation_tests.c 
+   22  ./a.out
+   23  nano operation_tests.c 
+   24  gcc operation_tests.c 
+   25  ./a.out 
+   26  nano operation_tests.c 
+   27  gcc operation_tests.c 
+   28  ./a.out 
+   29* 
+   30  gcc operation_tests.c 
+   31  ./a.out 
+   32  nano operation_tests.c 
+   33  gcc operation_tests.c 
+   34  ./a.out 
+   35  nano operation_tests.c 
+   36  cat operation_tests.c 
+   37  gcc operation_tests.c 
+   38  ./a.out 
+   39  nano operation_tests.c 
+   40  cat operation_tests.c 
+   41  gcc operation_tests.c 
+   42  ./a.out 
+   43  nano operation_tests.c 
+   44  gcc operation_tests.c 
+   45  ./a.out 
+   46  nano operation_tests.c 
+   47  cat operation_tests.c 
+   48  gcc operation_tests.c 
+   49  nano operation_tests.c 
+   50  gcc operation_tests.c 
+   51  ./a.out 
+   52  nano operation_tests.c 
+   53  gcc operation_tests.c 
+   54  ./a.out 
+   55  nano operation_tests.c 
+   56  gcc operation_tests.c 
+   57  ./a.out 
+   58  nano operation_tests.c 
+   59  rm a.out
+   60  la -l
+   61  cd ..
+   62  git-upload RTR105_20191111_11_58
+   63  git-upload_ RTR105_20191111_11_58
+   64  git-upload operation_tests.c_20191111_12_00
+   65  git-upload_ operation_tests.c_20191111_12_00
+   66  ./git-upload operation_tests.c_20191111_12_00
+   67  ./git-upload RTR105__20191111_12_00
+   68  cd RTR105
+   69  ./git-upload operation_tests.c_20191111_12_00
+   70  nano operation_tests.c 
+   71  cat operation_tests.c 
+   72  gcc operation_tests.c 
+   73  ./a.out 
+   74  nano operation_tests.c 
+   75  gcc operation_tests.c 
+   76  nano operation_tests.c 
+   77  gcc operation_tests.c 
+   78  nano operation_tests.c 
+   79  gcc operation_tests.c 
+   80  ./a.out 
+   81  nano operation_tests.c 
+   82  gcc operation_tests.c 
+   83  ./a.out 
+   84  nano operation_tests.c 
+   85  gcc operation_tests.c 
+   86  ./a.out 
+   87  nano operation_tests.c 
+   88  gcc operation_tests.c 
+   89  ./a.out 
+   90  nano operation_tests.c 
+   91  gcc operation_tests.c 
+   92  ./a.out 
+   93  nano operation_tests.c 
+   94  gcc operation_tests.c 
+   95  ./a.out 
+   96  nano operation_tests.c 
+   97  gcc operation_tests.c 
+   98  nano operation_tests.c 
+   99  gcc operation_tests.c 
+  100  ./a.out 
+  101  cat operation_tests.c >> operation_tests.txt 
+  102  gcc operation_tests.
+  103  cat operation_tests.c >> operation_tests.txt 
+  104  gcc operation_tests.c
+  105  ./a.out 
+  106  ./a.out >> operation_tests.txt
+  107  cat operation_tests.txt
+  108  ./git-upload operation_tests.txt_20191111_14_01
+  109  history >> history_20191111_14_04

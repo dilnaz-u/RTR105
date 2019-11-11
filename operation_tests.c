@@ -44,6 +44,7 @@ printf("%d || %d = %d (sizeof \"a||b\" %lu byte(s))\n",a,b,a||b,sizeof(a||b));
 printf("!(%d||%d) = %d (sizeof \"!(a||b)\" %lu byte(s))\n",a,b,!(a||b),sizeof(!(a||b)));
 a=A;
 printf("%d += %d = %d (sizeof \"a+=b\" %lu byte(s))\n",a,b,a+=b,sizeof(a+=b));
+a=A;
 printf("%d -= %d = %d (sizeof \"a-=b\" %lu byte(s))\n",a,b,a-=b,sizeof(a-=b));
 a=A;
 printf("%d *= %d = %d (sizeof \"a*=b\" %lu byte(s))\n",a,b,a-=b,sizeof(a-=b));
