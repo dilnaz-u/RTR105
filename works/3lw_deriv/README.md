@@ -97,6 +97,10 @@ Enter value of b: 1
  ## Figure
  
  ![Снимок9](https://user-images.githubusercontent.com/55049044/72692497-18560580-3b4e-11ea-9864-771ad7d468ed.PNG)
+ 
+ ![Снимок7](https://user-images.githubusercontent.com/55049044/72692955-91eef300-3b50-11ea-9e3a-d42417db8dee.PNG)
+
+
                                                                            
 
 
